@@ -1,2 +1,4 @@
-# Ji_wei_tong
-An app used particularly for the shooting of China Railway.
+# 机位通(徐州版)
+
+机位通徐州版是一款专门为徐州拍火车制作的机位的指导性APP。
+
